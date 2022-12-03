@@ -102,7 +102,7 @@ export default {
     this.$store.state.idioma = {
       name: "Español",
       code: "ES",
-      bandera: "src/assets/espana.png",
+      bandera: "/public/espana.png",
     };
   },
 
@@ -117,7 +117,7 @@ export default {
       selectedCountry: {
         name: "Español",
         code: "ES",
-        bandera: "src/assets/espana.png",
+        bandera: "/public/espana.png",
       },
       items: [
         {
@@ -169,12 +169,12 @@ export default {
         {
           name: "Español",
           code: "ES",
-          bandera: "src/assets/espana.png",
+          bandera: "/public/espana.png",
         },
         {
           name: "English",
           code: "IN",
-          bandera: "src/assets/inglaterra.png",
+          bandera: "/public/inglaterra.png",
         },
       ],
     };

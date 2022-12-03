@@ -256,7 +256,7 @@
           <div style="margin: auto" class="card-img">
             <img
               class="img-tecnologias"
-              src="src/assets/tecnologias/htmllogo.png"
+              src="/public/tecnologias/htmllogo.png"
               alt=""
             />
             <p class="descripcion-img">HTML</p>
@@ -268,7 +268,7 @@
           <div style="margin: auto" class="card-img">
             <img
               class="img-tecnologias"
-              src="src/assets/tecnologias/csslogo.png"
+              src="/public/tecnologias/csslogo.png"
               alt=""
             />
             <p class="descripcion-img">CSS</p>
@@ -280,7 +280,7 @@
           <div style="margin: auto" class="card-img">
             <img
               class="img-tecnologias"
-              src="src/assets/tecnologias/jslogo.png"
+              src="/public/tecnologias/jslogo.png"
               alt=""
             />
             <p class="descripcion-img">JAVASCRIPT</p>
@@ -295,7 +295,7 @@
           <div style="margin: auto" class="card-img">
             <img
               class="img-tecnologias"
-              src="src/assets/tecnologias/vuelogo.png"
+              src="/public/tecnologias/vuelogo.png"
               alt=""
             />
             <p class="descripcion-img">VUE JS</p>
@@ -307,7 +307,7 @@
           <div style="margin: auto" class="card-img">
             <img
               class="img-tecnologias"
-              src="src/assets/tecnologias/phplogo.png"
+              src="/public/tecnologias/phplogo.png"
               alt=""
             />
             <p class="descripcion-img">PHP</p>
@@ -319,7 +319,7 @@
           <div style="margin: auto" class="card-img">
             <img
               class="img-tecnologias"
-              src="src/assets/tecnologias/laravellogo.png"
+              src="/public/tecnologias/laravellogo.png"
               alt=""
             />
             <p class="descripcion-img">LARAVEL</p>
@@ -339,19 +339,19 @@ export default {
       products: [
         {
           name: "Nutrimarg balanceados",
-          img: "src/assets/nutrimarg.jpg",
+          img: "/public/nutrimarg.jpg",
           url: "https://drive.google.com/drive/u/0/folders/1AYNb50NBRFMounpcIWwANYDjMANa1JIG",
           user: "",
         },
         {
           name: "ModulAr SRL",
-          img: "src/assets/modular.jpg",
+          img: "/public/modular.jpg",
           url: "http://modular.balanceado.com.ar",
           user: "User: superadmin1@gmail.com // Password: 1234",
         },
         {
           name: "Lala Deco Kids",
-          img: "src/assets/laladecokids.jpg",
+          img: "/public/laladecokids.jpg",
           url: "http://lalakids.balanceado.com.ar",
           user: "User: angheredia // Password: 1234",
         },

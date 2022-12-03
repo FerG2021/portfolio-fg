@@ -15,7 +15,7 @@
 
   <div class="img-descripcion">
     <div class="div-img">
-      <img src="src/assets/Imagen2.png" alt="" class="img" />
+      <img src="public/Imagen2.png" alt="" class="img" />
     </div>
 
     <div class="div-descripcion">

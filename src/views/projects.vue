@@ -19,7 +19,7 @@
           <div style="margin: auto">
             <Card style="width: 25em" class="card">
               <template #header>
-                <img src="src/assets/modular.jpg" style="height: 15rem" />
+                <img src="/public/modular.jpg" style="height: 15rem" />
               </template>
               <template #title> ModulAr SRL </template>
               <template #subtitle>
@@ -65,7 +65,7 @@
           <div style="margin: auto">
             <Card style="width: 25em" class="card">
               <template #header>
-                <img src="src/assets/laladecokids.jpg" style="height: 15rem" />
+                <img src="/public/laladecokids.jpg" style="height: 15rem" />
               </template>
               <template #title> Lala Deco Kids </template>
               <template #subtitle>
@@ -111,7 +111,7 @@
           <div style="margin: auto">
             <Card style="width: 25em" class="card">
               <template #header>
-                <img src="src/assets/nutrimarg.jpg" style="height: 15rem" />
+                <img src="/public/nutrimarg.jpg" style="height: 15rem" />
               </template>
               <template #title> Nutrimarg balanceados </template>
               <template #subtitle>
@@ -157,7 +157,7 @@
           <div style="margin: auto">
             <Card style="width: 25em; height: 47em" class="card">
               <template #header>
-                <img src="src/assets/modular.jpg" style="height: 15rem" />
+                <img src="/public/modular.jpg" style="height: 15rem" />
               </template>
               <template #title> ModulAr SRL </template>
               <template #subtitle>
@@ -200,7 +200,7 @@
           <div style="margin: auto">
             <Card style="width: 25em; height: 47em" class="card">
               <template #header>
-                <img src="src/assets/laladecokids.jpg" style="height: 15rem" />
+                <img src="/public/laladecokids.jpg" style="height: 15rem" />
               </template>
               <template #title> Lala Deco Kids </template>
               <template #subtitle>
@@ -243,7 +243,7 @@
           <div style="margin: auto">
             <Card style="width: 25em" class="card">
               <template #header>
-                <img src="src/assets/nutrimarg.jpg" style="height: 15rem" />
+                <img src="/public/nutrimarg.jpg" style="height: 15rem" />
               </template>
               <template #title> Nutrimarg balanceados </template>
               <template #subtitle>
