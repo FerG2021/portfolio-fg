@@ -12,7 +12,7 @@ export default createStore({
     idioma: { 
       name: "Español", 
       code: "ES",
-      bandera: "/public/espana.png"
+      bandera: "/espana.png"
     },
   },
 
