@@ -15,7 +15,8 @@
 
   <div class="img-descripcion">
     <div class="div-img">
-      <img src="/imagen2.png" alt="" class="img" />
+      <!-- <img src="/imagen2.png" alt="" class="img" /> -->
+      <img src='https://i.postimg.cc/GtwYFC9P/Imagen2.png' border='0' alt='Imagen2' class="img"/>
     </div>
 
     <div class="div-descripcion">
