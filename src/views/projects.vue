@@ -39,8 +39,8 @@
                   proveedores dandole accedo al sistema para que sean ellos
                   mismos quienes cargan los precios
                 </p>
-                <p>User: superadmin1@yopmail.com</p>
-                <p>Password: 1234</p>
+                <p>User: superadmin1@gmail.com</p>
+                <p>Password: 12345678</p>
               </template>
               <template #footer>
                 <Button
@@ -687,12 +687,12 @@ export default {
   z-index: 1;
 }
 
-.texto-relleno{
+.texto-relleno {
   color: #141414;
 }
 
-.card:hover .texto-relleno{
-  color: #212121 ;
+.card:hover .texto-relleno {
+  color: #212121;
 }
 
 /*  */

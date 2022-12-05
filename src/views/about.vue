@@ -107,7 +107,9 @@
       </div>
 
       <div class="descripcion">
-        Being part of a company where I can put into practice all my knowledge and that offers me the opportunity to grow in the area work, personal and intellectual
+        Being part of a company where I can put into practice all my knowledge
+        and that offers me the opportunity to grow in the area work, personal
+        and intellectual
       </div>
 
       <h2 class="subtitulo">Skills</h2>
@@ -216,12 +218,16 @@
               <div style="display: flex">
                 <div style="margin: auto">
                   <!-- <h4 class="mb-1">{{ slotProps.data.name }}</h4> -->
-                  <h3 style="text-align: center"><a :href="slotProps.data.url" target="_blank">{{
-                    slotProps.data.name
-                  }}</a></h3>
-                  <h5 style="text-align: center"><a :href="slotProps.data.url" target="_blank">{{
-                    slotProps.data.user
-                  }}</a></h5>
+                  <h3 style="text-align: center">
+                    <a :href="slotProps.data.url" target="_blank">{{
+                      slotProps.data.name
+                    }}</a>
+                  </h3>
+                  <h5 style="text-align: center">
+                    <a :href="slotProps.data.url" target="_blank">{{
+                      slotProps.data.user
+                    }}</a>
+                  </h5>
                   <!-- <h6 class="mt-0 mb-3">${{ slotProps.data.price }}</h6> -->
                 </div>
               </div>
@@ -240,7 +246,6 @@
     <h2 class="subtitulo" v-if="$store.state.idioma.code == 'IN'">
       Technologies
     </h2>
-
 
     <h4 style="padding: 10px" v-if="$store.state.idioma.code == 'ES'">
       Estas son algunas de las teconologías con las que trabajo
@@ -278,11 +283,7 @@
       <div class="col">
         <div style="display: flex">
           <div style="margin: auto" class="card-img">
-            <img
-              class="img-tecnologias"
-              src="/tecnologias/jslogo.png"
-              alt=""
-            />
+            <img class="img-tecnologias" src="/tecnologias/jslogo.png" alt="" />
             <p class="descripcion-img">JAVASCRIPT</p>
           </div>
         </div>
@@ -347,7 +348,7 @@ export default {
           name: "ModulAr SRL",
           img: "/modular.jpg",
           url: "http://modular.balanceado.com.ar",
-          user: "User: superadmin1@gmail.com // Password: 1234",
+          user: "User: superadmin1@gmail.com // Password: 12345678",
         },
         {
           name: "Lala Deco Kids",
